@@ -1,0 +1,76 @@
+BODY {
+    background: linear-gradient(rgb(65, 65, 86), rgb(38, 38, 84));
+
+
+
+
+
+
+}
+
+h1 {
+    border-style: solid;
+
+    border-left: 0px;
+    border-right: 0px;
+    border-radius: 20px;
+    color: orangered;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+    margin-right: 240px;
+    margin-left: 170px;
+
+
+}
+
+H2 {
+    color: orangered;
+
+}
+
+p {
+    color: bisque;
+    font-style: italic;
+    font-size: 22px;
+}
+
+li {
+    color: orangered;
+    font-size: 22PX;
+    float: left;
+    display: flex;
+    margin: 25PX;
+    
+
+
+
+
+}
+
+#N {
+    margin-top: 100PX;
+    margin-right: 500PX;
+}
+
+a :hover {
+    color: white;
+}
+
+.button1{
+    color:black;
+    margin-left: 90%;
+    border-radius: 20px;
+    background:orangered;
+margin-bottom: px;
+}
+form label{
+    font-size: 15px;
+}
+.button2{
+    margin-right: 0%;
+    border-radius: 20px;
+    font-size: 14px;
+    background-color: orangered;
+
+}
